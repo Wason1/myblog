@@ -1,0 +1,8 @@
+title: My Blog Site
+description: A place to share my thoughts and ideas
+baseurl: ""
+url: "https://wason1.github.io/myblog/"
+markdown: kramdown
+theme: jekyll-theme-minimal
+permalink: /:year/:month/:day/:title/
+google_analytics: UA-000000-1
